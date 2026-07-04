@@ -1,0 +1,4 @@
+.env
+ig_session.json
+*.json
+!.env.example
